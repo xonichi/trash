@@ -1,0 +1,39 @@
+header {
+	background-image: url(img/lnr.jpeg);
+	background-position: center center;
+	background-size: cover;
+	padding: 150px 0;
+}
+
+header h1 {
+	font-family: 'Permanent Marker', cursive;
+	text-align: center;
+	font-size: 46px;
+	color: #F19FF6;
+	margin: 0;
+}
+
+.top {
+	background-image: url(https://www.wallpapersrc.com/img/671b401bc0064a17bfc79be6aed3dfd5/black-and-white-lil-peep-1191x670.jpg) ;
+	padding: 20px;
+
+}
+.top-left {
+	background-color: black;
+	padding: 15px;
+}
+.top-right {
+	background-color: black;
+	padding: 15px;
+}
+
+.albums{
+	text-align: center;
+	padding: 15px;
+}
+.a {
+    margin-top:25px;
+}
+h1 {
+	color: pink;
+}
